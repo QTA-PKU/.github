@@ -1,2 +1,2 @@
 # .github
-The profile of QTA.
+The profile of QTA. You can edit is in `profile\`.
